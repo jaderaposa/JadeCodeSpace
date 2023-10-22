@@ -49,7 +49,8 @@ const projectList = [
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
-    title: "GitHub Codespaces, github.dev and all the stuff that my classmates don't want to learn about",
+    title:
+      "GitHub Codespaces, github.dev and all the stuff that my classmates don't want to learn about",
     description:
       "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
     url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
